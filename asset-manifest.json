@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tracker/static/css/main.4bfd691c.css",
+    "main.js": "/react-tracker/static/js/main.40db0ef6.js",
+    "static/media/banner.png": "/react-tracker/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/react-tracker/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/react-tracker/index.html",
+    "main.4bfd691c.css.map": "/react-tracker/static/css/main.4bfd691c.css.map",
+    "main.40db0ef6.js.map": "/react-tracker/static/js/main.40db0ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfd691c.css",
+    "static/js/main.40db0ef6.js"
+  ]
+}
